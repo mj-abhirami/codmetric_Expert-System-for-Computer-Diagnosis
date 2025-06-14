@@ -63,5 +63,5 @@ A short video demo of the diagnosis system in action is included to showcase how
 
 Feel free to reach out or connect with me:
 
-- [LinkedIn](www.linkedin.com/in/abhirami-mj)  
+- [LinkedIn](https://www.linkedin.com/in/abhirami-mj)
 - 📧 mjabhirami2005@gmail.com
