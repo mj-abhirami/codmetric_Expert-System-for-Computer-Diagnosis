@@ -55,7 +55,7 @@ This project simulates how real-world expert systems work by using **if-then rul
 ### 🎥 Demo
 
 A short video demo of the diagnosis system in action is included to showcase how it works.  
-**[Watch Demo Video]([https://youtu.be/pByxDVLqwIQ])**
+**[Watch Demo Video](https://youtu.be/pByxDVLqwIQ)**
 
 ---
 
